@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE FilipinoArtsGallery>
+
+	<ELEMENT> = FilipinoArtistsGallery (home, information, artists)
+	<ELEMENT> = home (FilipinoArtistsGallery, greetings, fernando-amorsolo, juan-luna, guillermo-tolentino, benedicto-cabrera vicente-manansala)
+	
+	<ELEMENT> = information (about-us, history, about-creators, contact-us)
+	<ELEMENT> = about-us (Filipino-Artists-Gallery, our-mission-and-vision)>
+	<ELEMENT> = our-mission-and-vision (details)>
+
+	<ELEMENT> = history (history-of-arts-in-philippines)>
+
+	<ELEMENT> = about-creators(karylle-manrique, christine-luz)>
+
+	<ELEMENT> = contact-us (form)>
+
+	<ELEMENT> = artists (fernando-amorsolo, juan-luna, guillermo-tolentino, benedicto-cabrera, vicente-manansala, victorio-edades, ang-kiukok, napoleon-abueva, hernando-ocampo, pacita-abad)>
+
+	<ELEMENT> = fernando-amorsolo (biography, rice-planting, fruit-gatherer, sunday-morning-going-to-town)>
+	<ELEMENT> = rice-panting (description)>
+	<ELEMENT> =fruit-gatherer (description)>
+	<ELEMENT> = sunday-morning-on-the-town  (description)>
+	
+	<ELEMENT> = juan-luna (biography, spolarium, the-blood-compact, the-death-of-cleopatra)>
+	<ELEMENT> = spolarium (description)>
+	<ELEMENT> = the-blood-compact (description)>
+	<ELEMENT> = the-death-of-cleopatra  (description)>
+	
+	<ELEMENT> = guillermo-tolention (biography, bonifacio, oblation, pax:statue)>
+	<ELEMENT> = bonifacio-monument(description)>
+	<ELEMENT> = oblation (description)>
+	<ELEMENT> = pax:statue (description)>
+	
+	<ELEMENT> = benedicto-cabrera (biography, sabel-in-blue, edo-gesture, the-oriental-fan)>
+	<ELEMENT> = sabel-in-blue (description)>
+	<ELEMENT> = edo-gesture (description)>
+	<ELEMENT> = the-oriental-fan (description)>
+	
+	<ELEMENT> =T vicente-manansala (biography, madonna-of-the-slums, the-bird-seller, jeepneys)>
+	<ELEMENT> = madonna-of-the-slums (description)>
+	<ELEMENT> = the-bird-seller (description)>
+	<ELEMENT> = jeepneys (description)>
+	
+	<ELEMENT> = victorio-edades (biography, the-builders, the-sketch, mother-and-daughter)>
+	<ELEMENT> =the-builders (description)>
+	<ELEMENT> = the-sketch (description)>
+	<ELEMENT> = mother-and-daughter (description)>
+	
+	<ELEMENT> = ang-kiukok (biography, watermelon, the-fishermen, angry-figure)>
+	<ELEMENT> = watermelon (description)>
+	<ELEMENT> = the-fishermen (description)>
+	<ELEMENT> = angry-figure (description)>
+
+	<ELEMENT> = naopleon-abueva (biography, kaganapan, kiss-of-judas, allegorical-harpoon)>
+	<ELEMENT> = kaganapan (description)>
+	<ELEMENT> = kiss-of-judas (description)>
+	<ELEMENT> = allegorical-harpoon (description)>
+
+	<ELEMENT> = hernando-ocampo (biography, genesis, ina-ng-balon, calvary)>
+	<ELEMENT> = genesis (description)>
+	<ELEMENT> = ina-ng-balon (description)>
+	<ELEMENT> = calvary (description)>
+
+	<ELEMENT> = pacita-abad (biography, underwater-wilderness-series, fly-me-to-the-moon, i-put-a-spell-on-you)>
+	<ELEMENT> = underwater-wilderness-series (description)>
+	<ELEMENT> = fly-me-to-the-moon (description)>
+	<ELEMENT> = i-put-a-spell-on-you (description)>
+
+]>
+
+	<ELEMENT> = home (#PCDATA)>
+	<ELEMENT> = information (#PCDATA)>
+	<ELEMENT> = artists (#PCDATA)>
+	<ELEMENT> = FilipinoArtsGallery (#PCDATA)>
+	<ELEMENT> = fernando-amorsolo (#PCDATA)>
+	<ELEMENT> = juan-luna (#PCDATA)>
+	<ELEMENT> = guillermo-tolentino (#PCDATA)>
+	<ELEMENT> = benedicto-cabrera (#PCDATA)>
+	<ELEMENT> = vicente-manansala (#PCDATA)>
+	<ELEMENT> = about-us (#PCDATA)>
+	<ELEMENT> = our-mission-and-vision (#PCDATA)>
+	<ELEMENT> = history (#PCDATA)>
+	<ELEMENT> = about-creators (#PCDATA)>
+	<ELEMENT> = KarylleManrique (#PCDATA)>
+	<ELEMENT> = ChristineLuz (#PCDATA)>
+	<ELEMENT> = contact-us(#PCDATA)>
+	<ELEMENT> = artists (#PCDATA)>
+	<ELEMENT> = fernando-amorsolo (#PCDATA)>
+	<ELEMENT> = juan-luna (#PCDATA)>
+	<ELEMENT> = guillermo-tolentino (#PCDATA)>
+	<ELEMENT> = benedicto-cabrera (#PCDATA)>
+	<ELEMENT> = vicente-manansala (#PCDATA)>
+	<ELEMENT> = victorio-edades (#PCDATA)>
+	<ELEMENT> = ang-kiukok (#PCDATA)>
+	<ELEMENT> = napoleon-abueva (#PCDATA)>
+	<ELEMENT> = hernando-ocampo (#PCDATA)>
+	<ELEMENT> = pacita-abad (#PCDATA)>
+	<ELEMENT> = biography (#PCDATA)>
+	<ELEMENT> =rice-planting (#PCDATA)>
+	<ELEMENT> = fruit-gatherer (#PCDATA)>
+	<ELEMENT> = sunday-morning-going-to-town (#PCDATA)>
+	<ELEMENT> = biography (#PCDATA)>
+	<ELEMENT> = spolarium (#PCDATA)>
+	<ELEMENT> = the-blood-compact (#PCDATA)>
+	<ELEMENT> = biography (#PCDATA)>
+	<ELEMENT> = bonifacio-monument (#PCDATA)>
+	<ELEMENT> = oblation (#PCDATA)>
+	<ELEMENT> = pax:statue (#PCDATA)>
+	<ELEMENT> = biography (#PCDATA)>
+	<ELEMENT> = sabel-in-blue (#PCDATA)>
+	<ELEMENT> = edo-gesture (#PCDATA)>
+	<ELEMENT> = the-oriental-fan (#PCDATA)>
+	<ELEMENT> = biography (#PCDATA)>
+	<ELEMENT> = madonna-of-the-slums (#PCDATA)>
+	<ELEMENT> = the-bird-seller (#PCDATA)>
+	<ELEMENT> = jeepneys (#PCDATA)>
+	<ELEMENT> = biography (#PCDATA)>
+	<ELEMENT> =T the-builders (#PCDATA)>
+	<ELEMENT> = the-sketch (#PCDATA)>
+	<ELEMENT> = mother-and-daughter (#PCDATA)>
+	<ELEMENT> = biography (#PCDATA)>
+	<ELEMENT> = watermelon (#PCDATA)>
+	<ELEMENT> = the-fishermen (#PCDATA)>
+	<ELEMENT> = angry-figure (#PCDATA)>
+	<ELEMENT> = biography (#PCDATA)>
+	<ELEMENT> = kaganapan (#PCDATA)>
+	<ELEMENT> = kiss-of-judas (#PCDATA)>
+	<ELEMENT> = allegorical-harpoon (#PCDATA)>
+	<ELEMENT> = biography (#PCDATA)>
+	<ELEMENT> = genesis (#PCDATA)>
+	<ELEMENT> =ina-ng-balon (#PCDATA)>
+	<ELEMENT> = calvary (#PCDATA)>
+	<ELEMENT> = biography (#PCDATA)>
+	<ELEMENT> = underwater-wilderness-series (#PCDATA)>
+	<ELEMENT> = fly-me-to-the-moon (#PCDATA)>
+	<ELEMENT> = i-put-a-spell-on-you (#PCDATA)>
+
+<FilipinoArtsGallery>
+	<home>
+		<FilipinosArtsGallery>
+			<fernando-amorsolo>
+			<juan-luna>
+			<guillermo-tolentino>
+			<benedicto-cabrera>
+			<vicente-manansala>		
+	<information>
+			<about-us>
+				<our-mission-and-vision>
+
+			<history>
+				<history-of-arts-in-philippines>
+			<history>
+
+			<about-creators>
+				<KarylleManrique>
+				<ChristineLuz>
+			<about-creators>
+
+			<contact-us>
+				<form>
+			<contact-us>
+
+	<artists>
+				<artist1>Fernando Amorsolo</artist1>
+				<artist2>Juan Luna</artist2>
+				<artist3>Guillermo Tolentino</artist3>
+				<artist4>Benedicto Cabrera</artist4>
+				<artist5>Vicente Manansala</artist5>
+				<artist6>Victorio Edades</artist6>
+				<artist7>Ang Kiukok</artist7>
+				<artist8>Napoleon Abueva</artist8>
+				<artist9>Victorio Edades</artist9>
+				<artist10>Pacita Abad</artist10>
+
+	<information>
+		<our-mission-and-vision>
+				<p>Filipino Arts Gallery aims to educate and integrate art appreciation to the pass-on generation. Aside from that, we are also aiming to develop local artists with passion to create and innovate art to flourish their talent and passion in arts.</p>
+
+				<p>"Find the art in your heart. It is the conversion of imagination to reality."</p>
+				<p>Filipino Arts Gallery seeks to promote and develop Philippine Visual Arts. We aim to be a creative ground where anyone can have an access to seeing our Filipino artists. This would help us t appreciate art, to enrich our cultural experience and strengthen nationalism.</p>
+		<history>
+				<p>The art of the Philippines is reflective of the diversity, richness and uniqueness of Filipino culture. It began during the pre-historic era which is signified by the various paintings and artworks found on the walls of the caves discovered throughout the region. However, Filipino Art, as we know today, began with colonization of the region by Spain in the early 16th century. The Spanish introduced Christianity to Philippines and art of the period was majorly influenced by religion. It thus reflects the religious propaganda through the country. Art played a significant role in the spread of Catholicism in the Philippines. From the 16th century till the 19th century, art in the Philippines was created primarily for the benefit and spread of Christianity. Change was seen in the early 19th century, when native people of the Philippines educated themselves. This change in education was also reflected in the art produced during that time. Among other things, there was a shift in focus from the church to the native culture of the country which included local landscapes, native fashion, jewelry and furniture. Another major change in Filipino art came during and after the Second World War. For many artists, the focus shifted from the native culture to the effects of the war. Painters started depicting battle scenes, death and the resulting suffering. Artists from the Philippines have continued to contribute to contemporary art of the world while experimenting with modern ways of expression. Here are the 10 most famous Filipino artists and their masterpieces.</p>
+
+	<about-creators>
+			<KarylleManrique>
+				<p>1-Second Year BSI/T College Student in Marinduque State College
+					-Poras, Boac, Marinduque</p>
+			<ChristineLuz>
+				<p>Second Year BSI/T College Student in Marinduque State College.
+					-Tampus, Boac, Marinduque</p>
+
+	<contacts>
+			<form>
+				<p>Have inqueries? Suggestions? Contact us!Message us through e-mail below.</p>	
+	<artists>
+			<biography>
+				<p>Fernando Amorsolo</p>
+				<p>1892 - 1972)</p>
+				<p>The Philippine artist Fernando Amorsolo (1892-1972) was a portraitist and painter of rural land scapes. He is best known for his craftsmanship and mastery in the use of light.
+
+				Fernando Amorsolo was born May 30, 1892, in the Paco district of Manila. At 13 he was apprenticed to the noted Philippine artist Fabian de la Rosa, his mother's first cousin. In 1909 Amorsolo enrolled at the Liceo de Manila and then attended the fine-arts school at the University of the Philippines, graduating in 1914. After working three years as a commercial artist and part-time instructor at the university, he studied at the Escuela de San Fernando in Madrid. For seven months he sketched at the museums and on the streets of Madrid, experimenting with the use of light and color. That winter he went to New York and discovered the works of the postwar impressionists and cubists, who became the major influence on his works. On his return to Manila, he set up his own studio.</p>
+			</biography>
+
+			<rice-planting>
+				<p>Rice Planting (1951) The 'Planting Rice with Mayon Volcano' depicts happiness despite the difficulties of planting rice. The Filipino Villagers in their bright clothes and straw hats plant with a fresh and green landscape of plenty behind them is the peaceful flume of steam.</p>
+			</rice-planting>
+			<fruit-gatherer>
+				<p>Fruit Gatherer (1950) Mr. Fernando Amorsolo's 1950 oil on canvas painting "Fruit Gatherer" depicts a woman sitting under a bamboo tree with a winnowing basket full of fresh fruits. It also depicts the daily lives of a lady who lives in a province where fresh fruits, vegetables, and other edibles can be found.</p>
+			</fruit-gatherer>
+			<sunday-morning-going-to-town>
+				<p>Sunday Morning Going to Town (1942) Oil on canvas from the artist's Golden Period, is a romanticized scene of Filipino rural life painted in the midst of World War II. A family sets out together, leaving their hut for an unknown location.</p>
+			</sunday-morning-going-to-town>
+				
+			<biography>
+				<p>Juan Luna</p>
+				<p>1857 - 1899)</p>
+				<p>Juan Luna de San Pedro y Novicio Ancheta, who was more commonly known as Juan Luna, is regarded as one of the first internationally renowned Filipino artist. Along with being an artist, he was also a widely known political activist of the Philippine Revolution of the late 19th century. Luna was as one of the first recognized painter and artist in the Philippines. His work was focused on the European academics of his time and therefore, included a lot of depiction of historical and literary scenes. Along with this, there was an underlining of political and social commentary in his works which is highlighted by a slight touch of Romanticism. Theatrical scenes and dramatic poses were also on the forefront of Luna’s work. His paintings are generally pronounced, conspicuous and vigorous. One of his most famous paintings, Spoliarium (1884), was taken to Exposición Nacional de Bellas Artes in Madrid, where Luna was the first recipient of the three gold medals awarded in the exhibition.</p>
+			</biography>
+
+			<spolarium>
+				<p>The Spoliarium is Juan Luna's most valuable oil-on-canvas painting. He was educated at the Academia de Dibujo y Pintura in the Philippines and the Academia de San Fernando in Madrid, Spain. It is the largest painting in the Philippines, measuring 4.22 meters by 7.675 meters. It was created by Luna in 1884 as an entry to the prestigious Exposicion de Bellas Artes (Madrid Art Exposition, May 1884) and won him the First Gold Medal.</p>
+			</spolarium>
+			<the-blood-compact>
+				<p>The Blood Compact is a historical painting by Juan Luna. The painting depicts the blood compact ritual, an ancient ritual in the Philippines intended to seal a friendship or treaty. This ritual is taking place between Spanish navigator Miguel López de Legazpi and Datu Sikatuna, the chieftain of Bohol. Luna had the help of José Rizal and Trinidad H. Pardo de Tavera while he was composing the historical context of the painting. They also helped him by posing for the characters in the artwork. The Blood Compact is one of the last pieces of artwork that was painted by Juan Luna. In the year 1904, the painting won the first prize in Paris, France and subsequently went on to win in the St. Louis Exposition in the United States. Presently, the painting is displayed in the Malacañan Palace, Philippines, which is the official residence of the President of the nation.</p>
+			</the-blood-compact>
+			<biography>
+				<p>Guillermo Tolentino</p>
+				<p>(1890 - 1976)</p>
+				<p>Guillermo Estrella Tolentino, is most famous for his work The Bonifacio Monument, which became the symbol of the freedom struggle of the Philippines. He was said to be a product of the Filipino Art’s revival period of the early and mid-20th century. He was also credited for making the statues of President Quezon and various other life-size busts and marble statues of important figures in the history of Philippines. Some of his smaller sculptors are kept and displayed at the National Museum of Fine Arts. Tolentino designed the seal of the Republic of the Philippines and has also been recognized for designing the gold and the bronze medal for the Ramon Magsaysay Award. He was awarded the Order of National Artists of the Philippines in Visual Arts (Sculpture) in 1973. Along with this, he had also won the UNESCO Cultural Award in Sculpture in 1959, Patnubay ng Sining at Kalinangan Award in 1963, the Republic Cultural Heritage award in 1967 and the Presidential Medal of Merit in 1970.</p>
+			</biography>
+
+			<bonifacio-monument>
+				<p>The Andrés Bonifacio Monument, commonly known simply as Bonifacio Monument or Monumento, is a memorial monument in Caloocan, Philippines which was designed by the National Artist Guillermo Tolentino to commemorate Philippine revolutionary Andrés Bonifacio, the founder and Supremo of the Katipunan. Andrés Bonifacio fought for independence from the politically and socially ruthless colonial rule by Spain. The monument 13.7 m in height with symbolic images and other features known as the "Cry of Balintawak" is acclaimed as one of the best monuments in the world.</p>
+			</bonifacio-monument>
+			<oblation>
+				<p>The Oblation (Filipino: Pahinungod, Oblasyon) is a concrete statue by Filipino artist Guillermo E. Tolentino which serves as the iconic symbol of the University of the Philippines. It depicts a man facing upward with arms outstretched, symbolizing selfless offering of oneself to his country.  The idea for the Oblation was first conceived during the presidency of Rafael Palma, who was the one to commission Tolentino to make the sculpture.</p>
+			</oblation>
+			<pax-statue>
+				<p>This statue was sculpted by Philipino sculptor Guillermo Tolentino in 1919. It was inspired by Wilson's efforts at achieving peace at the conclusion of World War I. The statue was well liked by Wilson who thought it represented "a picture of America leading the way of salvation for the smaller nations of the world." Toletino was a waiter who met Mrs. Wilson at a tea room in Rock Creek Park, which led to an audience with the president, wherein Toldetino brought the sculpture to the White House.</p>
+			</pax-statue>
+			<biography>
+				<p>Benedicto Cabrera</p>
+				<p>(1942-2013)</p>
+				<p>Benedicto Reyes Cabrera, is regarded as the bestselling painter of his generation of Filipino artists. He was introduced to art by his elder brother Salvador, who was also an established painter. While studying at the University of Philippines, he explored various forms of art which included printmaking and photography. He eventually established his own unique form of painting. Cabrera’s work is essentially figurative and he uses fabrics and patterns to bring to life the figures in his paintings. His work is majorly focused on women, but sometimes also depicts men. In the year 1963, he won the first prize in a student competition for one of his oil painting which is known as the talipapa or a market. His first exhibition of paintings was held in Mabini in the year 1965. After that, he has had exhibitions in New York, London, Paris and in various other cities. Cabrera was awarded the Order of National Artists of the Philippines in Visual Arts (Painting) in the year 2006. He is perhaps the most famous living artist in the Philippines.</p>
+			</biography>
+
+			<sabel-in-blue>
+				<p>The painting exhibits Cabrera's chief subject on most of his works, Sabel. The artist emphasized the face of Sabel, which is plain but full of emotions. He made use of primary and bright colors contrasted with dark background directing the eyes of the viewers to Sabel's face.</p>
+			</sabel-in-blue>
+			<edo-gesture>
+				<p>Bencab drew inspiration from the ukiyo-e the portmanteau of two Japanese characters Uki (to float) and Yo (world). For the artist, this refers to the impermanence of all living things on earth. </p>
+			</edo-gesture>
+			<the-oriental-fan>
+				<p>She is exceedingly beautiful, as told through her delicate features and long fall of dark hair cascading through the woven plaits of her hammock. However it is her direct gaze through finely browed eyes, and her winsome smile, which captures her innate sensuality and a deep sense of her historicity.</p>
+			</the-oriental-fan>
+			<biography>
+				<p>Vicente Manansala</p>
+				<p>(1942-2013)</p>
+				<p>Vicente Manansala was a prodigious artist who received a six-month grant from UNESCO and was invited to study at the Ecole des Beaux-Arts in Quebec, Canada. He is most commonly known for his Cubist paintings, prints and illustration. He was a member of the Thirteen Moderns, which was led by Victorio Edades. As a neo-realist, he became one of the few artists who were responsible for the modernist movement in the country. Primarily, his work was focused on the issues and the problems of the world. Along with this, the Second World War had a great impact on his paintings. National culture, social environment, identity and native sensibility became the epicenter of his works. Along with this, he also worked on some abstract pieces but his main focus remained on using art as a social commentary. Manansala held his first solo exhibition in the year 1951 at the Manila Hotel. His work had an immense influence on the next generation of painters which included Manuel Baldemor and Angelito Antonio. The Honolulu Museum of Art, the Lopez Memorial Museum, Manila and the Philippine Center in New York hold some of his most famous works. He was posthumously awarded the Order of National Artists of the Philippines in Visual Arts (Painting) in the year 1981.</p>
+			</biography>
+			<madonna-of-the-slums>
+				<p>Madonna of the Slums is a portrayal of a mother and child from the countryside who became urban shanty residents once in the city. In his Jeepneys, Manansala combined the elements of provincial folk culture with the congestion issues of the city.</p>
+			</madonna-of-the-slums>
+			<the-bird-seller>
+				<p>The Bird Seller reflects all these unique qualities and influences, depicting a local vendor of tropical birds crouched under the heavy burden of his pole lying across his shoulders. Around him sway a myriad of geometric bird cages, creating layers of textural steppes across the pictorial surface. </p>
+			</the-bird-seller>
+			
+			<jeepneys>
+				<p>Jeepneys (1951)<p>
+                <p> Jeepneys is a composition made in enamel on masonite board (fiberboard), measuring 51 x 59 cm. It shows the mastery of modernism within the Philippine context by the early 1950s modernists.</p>
+
+            <biography>
+				<p>Victorio Edades</p>
+				<p>(1895-1985)</p>
+				<p>Victorio Edades was a revolutionary artist, who was the leader of the Thirteen Moderns, a group of artists who believed and promoted Modernism in artwork. A traveling exhibition from the New York Armory Hall was what inspired Edades to follow and appreciate modern art. Through the exhibition, he got inspired by some of the Modern European artists including Gaugin, Picasso and Matisse and felt a pull towards Modernism and Surrealism. He believed that Modernism allowed artists to experiment with art and encouraged artistic expression and freedom. One of his most famous paintings, The Sketch (1927) won the second prize in the Annual Exhibition of North American Artists. However, his ideas of modern art were not easily accepted in the Philippines. He had to struggle to bring a change in the conventions of domestic art in his nation. Nonetheless his contribution was recognized and he was bestowed with the honor of National Artists of the Philippines in Visual Arts (Painting) in 1976.</p>
+			</biography>
+
+			<the-builders>
+				<p>The Builders (1928) One of Victorio Edades' major works that he exhibited in 1928 during his one-man show. Edades executed this upon his return to the Philippines from studies in the United States. In his campaign for modernism, this is one of his paintings that shows his enhanced knowledge and skill in modern art. This artwork emphasized linear and structural composition above other pictorial elements, conveying the essence of men engaged in labor through the contortion of the bodies.</p>
+            </the-builders>               
+			<the-sketch>
+				<p>The Sketch (1928) “The Sketch” was painted in America and exhibited at the Seattle Fine Arts Society, which was composed of artists from Washington, Idaho, Utah, Oregon and Canada. It won the second highest honors. The first honors was won by one of my professors from the University of Washington.</p>
+			</the-sketch>
+			<mother-and-daughter>
+				<p>Mother and Daughter (1926) This is a portrait of Jane Noble Garott, the house-mother of the Filipino Club House in Seattle and her daughter, Jean. This work was created when the artist was studying in the US. Jean later married the artist.</p>
+			</mother-and-daughter>
+			<biography>
+				<p>Ang Kiukok</p>
+				<p>(1931-2005</p>
+				<p>A man of Chinese descent, Ang Kiukok is most famous for his expressive artwork. Almost all his paintings have one thing in common: an extremely disturbing subject matter. With a dynamic profile, his paintings have been known to depict death; crucifixions; and tortured and screaming figurines; which portray the dull and bleak reality of life. Kiukok was a critically as well as commercially successful painter and his paintings have had a high viewership. The decade of 1970s, when Philippines was under martial law, was the time when he made some of his extremely grueling paintings. Apart from his subject matter, Kiukok is renowned for his extremely unique style of painting, which was a mixture of Cubism, Expressionism and Surrealism. It was due to his style that he first gained fame and prominence in the 1960s. Ang Kiukok was named the National Artist for Visual Arts in the Philippines in the year 2001</p>
+			</biography>
+			<watermelon>
+				<p>Watermelon (1987) "Watermelon" by Ang kiukok is his most famous work. Vector abstract irregular polygon background with a triangular pattern in blue and pink color representing watermelon.</p>
+            </watermelon>            
+			<the-fishermen>
+				<p>The Fishermen (1981) A faithful Catholic, Ang created works referencing parables from the bible. In the present Lot Fisherman, the reference could be alluded to the parable where Jesus asks fisherman with empty catches to cast their nets into the sea, and to their amazement the nets came up filled with a bountiful harvest from the sea.</p>
+			</the-fishermen>
+			<angry-figure>
+				<p>Angry Figure (1982) The painting of Kiukok “Angry Man” was published in 1982 when the MartialLaw was recently declared ended in 1981—but was not entirely true becausethe abuse of human rights had still continued afterwards. And as we all know, during the martial law, many people got killed and others diedbecause of poverty. Protesters were not allowed, or else, they would be sentto prison—worse is, killed secretly..</p>
+			</angry-figure>
+			<biography>
+				<p>Napoleon Abueva</p>
+				<p>(1930-2018)</p>
+				<p>One of the most famous Filipino sculptors, Napoleon Veloso Abueva, was one of the youngest recipients of the National Artist for Sculpture title in the year 1976. Among other things, Abueva is known as the Father of Modern Philippine Sculpture. He is credited for shaping the art of sculpture in his country. Abueva used numerous types of material to create sculpture masterpieces including marble, bronze, iron, stainless steel, hard wood, cement, adobe, coral and alabaster. Among one of his early innovation in his field was “buoyant sculpture”, which according to him was something to be viewed from the surface of a pool. He is famously known for being the first Filipino artist for putting up a one-man sculptural exhibit in the Philippine Center in New York in the year 1980. He was awarded the Ten Outstanding Young Men of the Philippines Award (TOYM) in 1959 and the ASEAN Award for Visual Arts in the year 1987.</p>
+			</biography>
+			<kaganapan>
+				<p>Kaganapan (1953) Kaganapan is one of Napoleon Abueva's work of art. Sculpted out of marble in 1952 when Abueva was still a young student at the University of the Philippines, this sculpture won the grand prize in the Arts Association of the Philippines' annual competition.</p>
+            </kaganapan>          
+			<kiss-of-judas>
+				<p>One notable award-winning piece was the minimalist The Kiss of Judas made out of granite block, depicting a moment of betrayal. Being mentored by Guillermo Tolentino, another National Artist for Sculpture, Abueva experienced being challenged to his limits and his artistic philosophy.</p>
+			</kiss-of-judas>
+			<allegorical-harpoon>
+				<p>Allegorical Harpoon (1964) Allegorical Harpoon is one of the first creations by a Filipino artist in hardwood in which the sense of values are more important than the heroic representation of native ancestors. This sculpture was National Artist for Visual Arts Napoleon Abueva's entry for the XXXII Venice Biennale in 1964. Its considered one of his best abstract sculptures and is part of the collection of the Cultural Center of the Philippines.</p>
+			</allegorical-harpoon>
+			<biography>
+				<p>Hernando Ocampo</p>
+				<p>((1911-1978)</p>
+				<p>A self-taught artist, Hernando Ruiz Ocampo majorly followed modernist traditions throughout his art career and highlighted his work by using extremely bold color palettes. His work was also inspired by science fiction writing and the Filipino landscape, which he portrayed by using biomorphic shapes. As a radical modernist artist, Ocampo was part of a group found by Victorio C. Edades, which was known as the Saturday Group of Artists or Taza de Oro Group. His work portrayed the extremely harsh realities of the world he lived in. Moreover, through his paintings, he depicted the colossal impact of the Second World War. Towards the second half of his artistic career, he moved on to abstract forms of painting. He was credited for the invention of an abstract form which used the native flora and fauna of the Philippines and spatial elements such as the sun and the stars to portray the abstract forms of life. In 1965, he won the Republic Central Award. Moreover, in 1991, Hernando R. Ocampo was posthumously awarded the title of National Artist of the Philippines.</p>
+			</biography>
+			<genesis>
+				<p>Genesis (1968) Ocampo’s most popular work is actually a copy of a small oil painting titled “Genesis” that was woven into a tapestry by Japanese artisans to become the fire curtain of the Cultural Center of the Philippines’ Main Theater.</p>
+            </genesis>            
+			<ina-ng-balon>
+				<p>Ina ng Balon (1950) The shapes and colors found in the painting appear to move and multiply. Rather than capturing semblances of nature, Ocampo was more interested in how shapes, colors, and contrasts interact with one another.</p>
+			</ina-ng-balon>
+			<calvary>
+				<p>Calvary (1948) Calvary, 1948, which showed the triple Crucifixion of Christ flanked by two thieves against the background of factories spewing smoke.</p>
+			</calvary>
+			<biography>
+				<p>Pacita Abad</p>
+				<p>(1946-2004)</p>
+				<p>Among other things, Pacita Abad is renowned for her eccentric use of color in her paintings. Some other unique features of her paintings included underwater scenes, along with wild animals and tropical flowers. She managed to highlight the constant changes and developments going on in the world around her. Her paintings are a reflection of her travels all over the world. After briefly studying painting in New York and Washington D.C., she went on to travel over 80 countries around the world. Her travels and her experiences with different people and cultures from various parts of the world had a major influence on her style of painting. In 1970s and 1980s, her work was majorly inspired by painters like Ben Shahn, which led her to create paintings which inspired political and social thought. Abad received several awards during her lifetime. In 1984, she became the first woman to win the Ten Outstanding Young Men (TOYM) Award. Additionally, she also won the D.C. Commission on the Arts Award in 1989 and 1990 and the Gwendolyn Caffritz Award in 1992.</p>
+			</biography>
+			<underwater-wilderness-series>
+				<p>Underwater Wilderness Series (1986) Abad turned to the prosperous marine life of her province and the underwater landscapes she encountered during her many diving trips across the Philippines for inspiration in this painting.</p>
+            </underwater-wilderness-series>
+			<fly-me-to-the-moon>
+				<p>Fly me to the moon (2000) This is a unique work . Pacita Abad's large-scale, richly colored paintings, textile collages, and mixed-media assemblages have long been revered in her native Philippines, and since her death in 2004 they have drawn international acclaim.</p>
+			</fly-me-to-the-moon>
+			<i-put-a-spell-on-you>
+				<p>I Put A Spell On You (1997) Brilliant is Abad’s approach to her art, as she juxtaposes a myriad of tones that come together in all their dissonance, concocting an intense, cohesive amalgamation of hues. Abad’s predilection for color can be traced, in a way, to her peripatetic life where she traveled the globe to take in the sights, sounds, cultures, and yes, colors, of the numerous places she visited.
+              	</p>
+			<i-put-a-spell-on-you/>
